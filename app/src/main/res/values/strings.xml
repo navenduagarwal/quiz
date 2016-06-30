@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">AmericanQuiz</string>
+    <string name="title_activity_question_one">Question 1/5</string>
+    <string name="title_activity_question_two">Question 2/5</string>
+    <string name="title_activity_question_three">Question 3/5</string>
+    <string name="title_activity_question_four">Question 4/5</string>
+    <string name="title_activity_question_five">Question 5/5</string>
+    <string name="title_activity_finish">Result</string>
+
+
+    <!--Headers-->
+    <string name="main_header_text">Let\'s Get Started :)</string>
+    <string name="main_bottom_text">Score 200 or more to win!</string>
+    <string name="main_button_text">Continue</string>
+    <string name="button_question">Submit</string>
+
+    <!--Questions and Answers-->
+    <string name="question_label">Question</string>
+    <string name="answer_label">Answer</string>
+    <string name="question_one">What is the name of the poem on Golden Bridge written by JOSEPH B. STRAUSS?</string>
+    <string name="question_two">Which of the following facts about baseball are true?</string>
+    <string name="question_three">From which terminal in Lower Manhattan Staten Island Ferry starts?</string>
+    <string name="question_four">The Grand Canyon became a national park in which century?</string>
+    <string name="question_five">Hoover Dam is named after whom ? Answer complete name.</string>
+
+    <string name="answer_hint">Enter Here</string>
+    <string name="answer_one">The Mighty Task is Done</string>
+    <string name="answer_two_option_one">The baseball glove was always a part of the game</string>
+    <string name="answer_two_option_two">The first baseball uniform consisted of long blue woolen pants, white flannel shirt, and a straw hat</string>
+    <string name="answer_two_option_three">The first World Series was played between Pittsburgh and Boston in 1903</string>
+    <string name="answer_three">Whitehall</string>
+    <string name="answer_four_option_one">19th Century</string>
+    <string name="answer_four_option_two">20th Century</string>
+    <string name="answer_five">Herbert Hoover</string>
+
+    <!--Result Screen Text-->
+    <string name="header_won">Time for Vegas !</string>
+    <string name="header_lost">Better luck next time!</string>
+    <string name="score_won">You Won\nFinal Score is: </string>
+    <string name="score_lost">You Lost\nFinal Score is: </string>
+    <string name="score_counter">\nTotal Correct Answers: </string>
+
+
+</resources>
